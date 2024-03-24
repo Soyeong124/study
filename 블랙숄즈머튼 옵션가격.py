@@ -54,3 +54,8 @@ C0 = math.exp(-r * T) * np.mean(hT)
 
 # %%
 print("Value of the Eutopean call option: {:5.3f}.".format(C0))
+
+# %%
+print("git test")
+
+# %%
